@@ -37,7 +37,7 @@
         </figure>
         <div class="content__son">
             <h2>
-                Atletico Madrid Campeón
+                Atletico Madrid Champion
             </h2>
             <p>! este es el mejor equipo 2016 !</p>
             <div class="leer">
@@ -78,33 +78,33 @@
 
     <section id="info">
         <h4>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, veritatis!
+            lo Mejor de nuestro Plantel 2016
         </h4>
         <div id="content__info">
 
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
-                <h4>Ines</h4>
+                <figure><img class="img__info" src="static/img/j1.jpg"alt=""></figure>
+                <h4>Gaby</h4>
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
-                <h4>Ines</h4>
+                <figure><img class="img__info" src="static/img/j3.jpeg" alt=""></figure>
+                <h4>Crrazco</h4>
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
-                <h4>Ines</h4>
+                <figure><img class="img__info" src="static/img/j4.png" alt=""></figure>
+                <h4>Godin</h4>
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
-                <h4>Ines</h4>
+                <figure><img class="img__info" src="static/img/j5.jpg" alt=""></figure>
+                <h4>Marco</h4>
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
-                <h4>Ines</h4>
+                <figure><img class="img__info" src="static/img/j6.jpg" alt=""></figure>
+                <h4>Football</h4>
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
-                <h4>Ines</h4>
+                <figure><img class="img__info" src="static/img/j7.jpg" alt=""></figure>
+                <h4>Michel</h4>
             </div>
 
         </div>
