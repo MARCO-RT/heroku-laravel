@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <title>MY BLOG</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <link rel="stylesheet" href="public/static/css/font-awesome.css">
-    <link rel="stylesheet" href="public/static/css/style.css">
+    <link rel="stylesheet" href="static/css/font-awesome.css">
+    <link rel="stylesheet" href="static/css/style.css">
 
 <body>
 
