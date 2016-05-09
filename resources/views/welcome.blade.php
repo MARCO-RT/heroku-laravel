@@ -1,45 +1,131 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Laravel</title>
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>MY BLOG</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="public/static/css/font-awesome.css">
+    <link rel="stylesheet" href="public/static/css/style.css">
 
-        <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
+<body>
 
-        <style>
-            html, body {
-                height: 100%;
-            }
+<!--header-->
+<header>
+    <div class="contenedor">
+        <h1><i class="fa fa-soccer-ball-o"></i> My Club</h1>
+        <input type="checkbox" id="menu_bar">
+        <label for="menu_bar"><i class="fa fa-bars"></i></label>
+        <nav class="menu" >
+            <a href="">Me</a>
+            <a href="">My team</a>
+            <a href="">Contact</a>
+            <a href="">Blog</a>
 
-            body {
-                margin: 0;
-                padding: 0;
-                width: 100%;
-                display: table;
-                font-weight: 100;
-                font-family: 'Lato';
-            }
+        </nav>
+    </div>
 
-            .container {
-                text-align: center;
-                display: table-cell;
-                vertical-align: middle;
-            }
+</header>
 
-            .content {
-                text-align: center;
-                display: inline-block;
-            }
+<!--end header-->
 
-            .title {
-                font-size: 96px;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <div class="content">
-                <div class="title">Laravel 5</div>
+<!--Principal-->
+
+<main>
+    <section id="banner">
+        <figure>
+            <img src="static/img/p1.jpg" alt="">
+        </figure>
+        <div class="content__son">
+            <h2>
+                Atletico Madrid Campeón
+            </h2>
+            <p>! este es el mejor equipo 2016 !</p>
+            <div class="leer">
+                <a href=""><h4>leer mas</h4></a>
             </div>
         </div>
-    </body>
+    </section>
+    <section id="welcome">
+        <h2>
+            BIENVENIDOS A MI SITIO WEB
+        </h2>
+        <p>
+            Lorem ipsum dolor sit amet,
+            consectetur adipisicing elit.
+            Blanditiis est id ipsum perferendis quae reprehenderit sint tempore totam ut veniam.
+        </p>
+
+    </section>
+
+    <section id="blog">
+        <h2>Las Mejores Imagenes del Club</h2>
+        <div class="contenedor">
+            <article>
+                <img src="static/img/p3.jpg" alt="">
+                <h4>Lorem ipsum dolor sit.</h4>
+            </article>
+            <article>
+                <img src="static/img/p5.jpg" alt="">
+                <h4>Lorem ipsum dolor sit.</h4>
+            </article>
+            <article>
+                <img src="static/img/p4.jpg" alt="">
+                <h4>Lorem ipsum dolor sit.</h4>
+            </article>
+        </div>
+
+    </section>
+
+    <section id="info">
+        <h4>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, veritatis!
+        </h4>
+        <div id="content__info">
+
+            <div class="info-football">
+                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <h4>Ines</h4>
+            </div>
+            <div class="info-football">
+                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <h4>Ines</h4>
+            </div>
+            <div class="info-football">
+                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <h4>Ines</h4>
+            </div>
+            <div class="info-football">
+                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <h4>Ines</h4>
+            </div>
+            <div class="info-football">
+                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <h4>Ines</h4>
+            </div>
+            <div class="info-football">
+                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <h4>Ines</h4>
+            </div>
+
+        </div>
+    </section>
+</main>
+<!--end Principal-->
+<footer>
+    <div class="contenedor">
+        <p class="copy">My team &COPY; 2016</p>
+        <div class="socials">
+            <a href=""><i class="fa fa-facebook "></i></a>
+            <a href=""><i class="fa fa-twitter"></i></a>
+            <a href=""><i class="fa fa-instagram"></i></a>
+            <a href=""><i class="fa fa-google-plus"></i></a>
+
+
+        </div>
+    </div>
+
+</footer>
+
+
+</body>
 </html>
