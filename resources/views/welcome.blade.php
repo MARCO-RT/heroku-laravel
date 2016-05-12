@@ -90,19 +90,19 @@
                 <h4>Ines</h4>
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <figure><img class="img__info" src="static/img/j1.jpg" alt=""></figure>
                 <h4>Ines</h4>
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <figure><img class="img__info" src="static/img/j2.jpg" alt=""></figure>
                 <h4>Ines</h4>
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <figure><img class="img__info" src="static/img/j3.jpg" alt=""></figure>
                 <h4>Ines</h4>
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <figure><img class="img__info" src="static/img/j5.jpg" alt=""></figure>
                 <h4>Ines</h4>
             </div>
 
