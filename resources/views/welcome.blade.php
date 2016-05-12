@@ -83,29 +83,41 @@
 
             <div class="info-football">
                 <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
-                <h4>Ines</h4>
-            </div>
-            <div class="info-football">
-                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
-                <h4>Ines</h4>
+
             </div>
             <div class="info-football">
                 <figure><img class="img__info" src="static/img/j1.jpg" alt=""></figure>
-                <h4>Ines</h4>
+
             </div>
             <div class="info-football">
                 <figure><img class="img__info" src="static/img/j2.jpg" alt=""></figure>
-                <h4>Ines</h4>
+
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/j3.jpg" alt=""></figure>
-                <h4>Ines</h4>
+                <figure><img class="img__info" src="static/img/j3.jpeg" alt=""></figure>
+                >
+            </div>
+            <div class="info-football">
+                <figure><img class="img__info" src="static/img/j4.png" alt=""></figure>
+
             </div>
             <div class="info-football">
                 <figure><img class="img__info" src="static/img/j5.jpg" alt=""></figure>
                 <h4>Ines</h4>
             </div>
+            <div class="info-football">
+                <figure><img class="img__info" src="static/img/j6.jpg" alt=""></figure>
+                <h4>Ines</h4>
+            </div>
 
+            <div class="info-football">
+                <figure><img class="img__info" src="static/img/j7.jpg" alt=""></figure>
+                <h4>Ines</h4>
+            </div>
+            <div class="info-football">
+                <figure><img class="img__info" src="static/img/j8.jpg" alt=""></figure>
+                <h4>Ines</h4>
+            </div>
         </div>
     </section>
 </main>
