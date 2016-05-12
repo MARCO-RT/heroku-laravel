@@ -37,7 +37,7 @@
         </figure>
         <div class="content__son">
             <h2>
-                Atletico Madrid Campeón
+                Atletico Madrid Campeon
             </h2>
             <p>! este es el mejor equipo 2016 !</p>
             <div class="leer">
