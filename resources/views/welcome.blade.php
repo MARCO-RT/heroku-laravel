@@ -51,26 +51,21 @@
             BIENVENIDOS A MI SITIO WEB
         </h2>
         <p>
-            El Club Atlético de Madrid es un club de fútbol ubicado en Madrid, fundado el 26 de abril de 1903 como Athletic Club de Madrid. Tiene sede en el Estadio Vicente Calderón y compite en la Primera División. Desde 1911, en que comenzó a vestir camiseta rojiblanca,2 el rojo y el blanco son los colores que identifican al club. La disposición de estos colores en las camisetas les valió el apodo de «colchoneros».3
-            Aunque ha tenido secciones en otras modalidades deportivas, su actividad principal ha sido y es el fútbol, deporte en el que el primer equipo de la entidad compite en la Liga Española de Primera División.4 En la actualidad, y además de equipos en diferentes categorías de fútbol base, cuenta con un equipo femenino, el Club Atlético de Madrid Féminas y tan solo con una sección de otra modalidad deportiva: la de rugby.
+            El Club Atletico de Madrid es un club de futbol ubicado en Madrid, fundado el 26 de abril de 1903 como Athletic Club de Madrid.
         </p>
-
-    </section>
-
-    <section id="blog">
         <h2>Las Mejores Imagenes del Club</h2>
         <div class="contenedor">
             <article>
                 <img src="static/img/p3.jpg" alt="">
-                <h4>Lorem ipsum dolor sit.</h4>
+                <h4>EL DUELO</h4>
             </article>
             <article>
                 <img src="static/img/p5.jpg" alt="">
-                <h4>Lorem ipsum dolor sit.</h4>
+                <h4>UNIFORME OFICIAL</h4>
             </article>
             <article>
                 <img src="static/img/p4.jpg" alt="">
-                <h4>Lorem ipsum dolor sit.</h4>
+                <h4>LA FIGURA</h4>
             </article>
         </div>
 
@@ -78,7 +73,7 @@
 
     <section id="info">
         <h4>
-            lo Mejor de nuestro Plantel 2016
+            Lo Mejor de nuestro Plantel 2016
         </h4>
         <div id="content__info">
 
