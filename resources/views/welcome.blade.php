@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>MY BLOG</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,700italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="static/css/font-awesome.css">
     <link rel="stylesheet" href="static/css/style.css">
 
@@ -88,7 +89,7 @@
             </div>
             <div class="info-football">
                 <figure><img class="img__info" src="static/img/j3.jpeg" alt=""></figure>
-                <h4>Crrazco</h4>
+                <h4>Carrazco</h4>
             </div>
             <div class="info-football">
                 <figure><img class="img__info" src="static/img/j4.png" alt=""></figure>
@@ -100,11 +101,11 @@
             </div>
             <div class="info-football">
                 <figure><img class="img__info" src="static/img/j6.jpg" alt=""></figure>
-                <h4>Football</h4>
+                <h4>Michel</h4>
             </div>
             <div class="info-football">
                 <figure><img class="img__info" src="static/img/j7.jpg" alt=""></figure>
-                <h4>Michel</h4>
+                <h4>Football</h4>
             </div>
 
         </div>
