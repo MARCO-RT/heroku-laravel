@@ -4,10 +4,9 @@
     <meta charset="UTF-8">
     <title>MY BLOG</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,700italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="static/css/font-awesome.css">
     <link rel="stylesheet" href="static/css/style.css">
-
+</head>
 <body>
 
 <!--header-->
@@ -38,7 +37,7 @@
         </figure>
         <div class="content__son">
             <h2>
-                Atletico Madrid Champion
+                Atletico Madrid Campeón
             </h2>
             <p>! este es el mejor equipo 2016 !</p>
             <div class="leer">
@@ -51,8 +50,13 @@
             BIENVENIDOS A MI SITIO WEB
         </h2>
         <p>
-            El Club Atletico de Madrid es un club de futbol ubicado en Madrid, fundado el 26 de abril de 1903 como Athletic Club de Madrid.
+            Lorem ipsum dolor sit amet,
+            consectetur adipisicing elit.
+            Blanditiis est id ipsum perferendis quae reprehenderit sint tempore totam ut veniam.
         </p>
+    </section>
+
+    <section id="blog">
         <h2>Las Mejores Imagenes del Club</h2>
         <div class="contenedor">
             <article>
@@ -73,33 +77,33 @@
 
     <section id="info">
         <h4>
-            Lo Mejor de nuestro Plantel 2016
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, veritatis!
         </h4>
         <div id="content__info">
 
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/j1.jpg"alt=""></figure>
-                <h4>Gaby</h4>
+                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <h4>Ines</h4>
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/j3.jpeg" alt=""></figure>
-                <h4>Carrazco</h4>
+                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <h4>Ines</h4>
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/j4.png" alt=""></figure>
-                <h4>Godin</h4>
+                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <h4>Ines</h4>
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/j5.jpg" alt=""></figure>
-                <h4>Marco</h4>
+                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <h4>Ines</h4>
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/j6.jpg" alt=""></figure>
-                <h4>Michel</h4>
+                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <h4>Ines</h4>
             </div>
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/j7.jpg" alt=""></figure>
-                <h4>Football</h4>
+                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
+                <h4>Ines</h4>
             </div>
 
         </div>
