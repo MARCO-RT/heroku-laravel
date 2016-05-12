@@ -103,20 +103,20 @@
             </div>
             <div class="info-football">
                 <figure><img class="img__info" src="static/img/j5.jpg" alt=""></figure>
-                <h4>Ines</h4>
+
             </div>
             <div class="info-football">
                 <figure><img class="img__info" src="static/img/j6.jpg" alt=""></figure>
-                <h4>Ines</h4>
+
             </div>
 
             <div class="info-football">
                 <figure><img class="img__info" src="static/img/j7.jpg" alt=""></figure>
-                <h4>Ines</h4>
+
             </div>
             <div class="info-football">
                 <figure><img class="img__info" src="static/img/j8.jpg" alt=""></figure>
-                <h4>Ines</h4>
+
             </div>
         </div>
     </section>
