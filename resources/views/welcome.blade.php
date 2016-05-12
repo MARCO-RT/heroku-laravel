@@ -57,15 +57,15 @@
         <div class="contenedor">
             <article>
                 <img src="static/img/p3.jpg" alt="">
-                <h4>EL DUELO</h4>
+                <h4>Lorem ipsum dolor sit.</h4>
             </article>
             <article>
                 <img src="static/img/p5.jpg" alt="">
-                <h4>UNIFORME OFICIAL</h4>
+                <h4>Lorem ipsum dolor sit.</h4>
             </article>
             <article>
                 <img src="static/img/p4.jpg" alt="">
-                <h4>LA FIGURA</h4>
+                <h4>Lorem ipsum dolor sit.</h4>
             </article>
         </div>
 
