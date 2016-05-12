@@ -11,7 +11,7 @@
 
 
 .leer{
-    text-align: center;
+  text-align: center;
 }
 
 #banner .content__son{
@@ -63,7 +63,7 @@
 @media (min-width:760px ) {
     #banner{
         height: 350px;
-        overflow:hidden ;
+         overflow:hidden ;
     }
     #banner img{
         height: auto;
@@ -97,3 +97,20 @@
     }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
