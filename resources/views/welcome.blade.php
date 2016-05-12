@@ -82,10 +82,6 @@
         <div id="content__info">
 
             <div class="info-football">
-                <figure><img class="img__info" src="static/img/client_1.jpg" alt=""></figure>
-
-            </div>
-            <div class="info-football">
                 <figure><img class="img__info" src="static/img/j1.jpg" alt=""></figure>
 
             </div>
@@ -112,10 +108,6 @@
 
             <div class="info-football">
                 <figure><img class="img__info" src="static/img/j7.jpg" alt=""></figure>
-
-            </div>
-            <div class="info-football">
-                <figure><img class="img__info" src="static/img/j8.jpg" alt=""></figure>
 
             </div>
         </div>
